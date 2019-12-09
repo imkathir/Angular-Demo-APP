@@ -1,4 +1,4 @@
-# [DemoAngularApp To view in Production Hosted using Github GH-Pages](https://imkathir.github.io/Angular-Demo-APP/)
+# [DemoAngularApp](https://imkathir.github.io/Angular-Demo-APP/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
