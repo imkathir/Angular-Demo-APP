@@ -1,6 +1,8 @@
 # [DemoAngularApp](https://imkathir.github.io/Angular-Demo-APP/)
 
-Credits to [Angular 8 tutorial](https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course)
+This is just simple demo Angular app.
+
+Credits to [Angular 8 crash course tutorial](https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
